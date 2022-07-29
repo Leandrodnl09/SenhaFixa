@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\bin\Debug\net6.0\SenhaFixa.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\bin\Debug\net6.0\SenhaFixa.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\bin\Debug\net6.0\SenhaFixa.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\bin\Debug\net6.0\SenhaFixa.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\bin\Debug\net6.0\SenhaFixa.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\refint\SenhaFixa.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\SenhaFixa.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SenhaFixa\obj\Debug\net6.0\ref\SenhaFixa.dll
